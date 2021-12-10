@@ -1,0 +1,5 @@
+body{
+    background: lightblue;
+}
+.bg-info{
+    background-color:rgba(var(--bs-info-rgb),var(--bs-bg-opacity))!important}    
