@@ -3,3 +3,6 @@ body{
 }
 .bg-info{
     background-color:rgba(var(--bs-info-rgb),var(--bs-bg-opacity))!important}    
+/*::after{
+    position:fixed;
+}*/
